@@ -1,0 +1,17 @@
+
+.title-new-card{
+    background: #09357B;
+    width:255px;
+    height: 138px;
+    padding:10px;
+}
+
+.title{
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 0.063px;
+    color: #FFFFFF;
+
+}

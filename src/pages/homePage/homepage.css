@@ -1,0 +1,22 @@
+.homepage{
+    padding: 0rem 10rem;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 1fr 1fr ;
+}
+
+.row-1{
+    display:grid;
+    grid-template-columns: 1fr 1fr ;
+
+}
+
+.grid-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+
+}
+
